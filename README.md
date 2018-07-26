@@ -16,7 +16,7 @@ password: admin
 username: 19961227
 password: admin
 
--PIC
+- PIC
 username: pic
 password: pic
 
